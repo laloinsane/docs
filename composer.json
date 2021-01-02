@@ -1,0 +1,16 @@
+{
+    "name": "laloinsane/docs",
+    "description": "test",
+    "authors": [
+        {
+            "name": "laloinsane",
+            "email": "calisto.michel@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "laloinsane\\docs\\": "src/"
+        }
+    }
+}
